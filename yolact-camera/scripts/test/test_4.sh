@@ -1,0 +1,1 @@
+python test.py --test --pan_file_validation /home/michal/code/bachelor_thesis/PAN_for_YOLACT/output_t4.csv --dataset_valid testset/dataset4.txt  --path_valid_x data/test/test_data_4.csv --path_valid_y data/test/test_data_output_4.csv --model pretrained/model_4c --num_classes 4
