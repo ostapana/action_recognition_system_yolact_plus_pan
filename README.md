@@ -1,6 +1,6 @@
 # System for action recognition
 
-The system is based on the integration of information from two separate modules. The first module (PAN_for_YOLACT) is responsible for motion detection and categorisation. The second module (yolact) is an instance segmentation module that recognises objects and their position on the
+The system is based on the integration of information from two separate modules. The first module PAN_for_YOLACT is responsible for motion detection and categorisation. The second module YOLACT is an instance segmentation module that recognises objects and their positions on the
 scene. The information from both modules is passed to a classifier that makes the final prediction.
 
 ### To train PAN:
